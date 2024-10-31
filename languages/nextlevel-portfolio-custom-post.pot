@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextlevel-Portfolio-Custom-Post\n"
+"POT-Creation-Date: 2022-02-19 16:48+0600\n"
+"PO-Revision-Date: 2021-05-10 15:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;__ngettext_noop;translate_nooped\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/portfolio.php:29
+msgid "Portfolios"
+msgstr ""
+
+#: inc/portfolio.php:30
+msgid "portfolio"
+msgstr ""
+
+#: inc/portfolio.php:31
+msgid "Add New"
+msgstr ""
+
+#: inc/portfolio.php:32
+msgid "Add New portfolio"
+msgstr ""
+
+#: inc/portfolio.php:33
+msgid "Edit"
+msgstr ""
+
+#: inc/portfolio.php:34
+msgid "Edit portfolio"
+msgstr ""
+
+#: inc/portfolio.php:35
+msgid "New portfolio"
+msgstr ""
+
+#: inc/portfolio.php:36
+msgid "View"
+msgstr ""
+
+#: inc/portfolio.php:37
+msgid "View portfolio"
+msgstr ""
+
+#: inc/portfolio.php:38
+msgid "Search portfolios"
+msgstr ""
+
+#: inc/portfolio.php:39
+msgid "No portfolios found"
+msgstr ""
+
+#: inc/portfolio.php:40
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: inc/portfolio.php:41
+msgid "Parent portfolio"
+msgstr ""
+
+#: inc/portfolio.php:58 inc/portfolio.php:68
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:59
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:60
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:61
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:62
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:63
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/portfolio.php:64
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:65
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:66
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:67
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: inc/portfolio.php:100
+msgid "Portfolio Url(If url is other than portfolio post):"
+msgstr ""
